@@ -1,3 +1,8 @@
+/*
+TCP Server Main
+Made by Adam Stinziani
+Date: 2019-05-06
+ */
 package com.adamstinziani;
 
 import java.io.BufferedReader;
@@ -12,6 +17,7 @@ public class Main {
     public static void main(String[] args) {
 	    try(ServerSocket serverSocket = new ServerSocket(5000)){
             while(true){
+                //Create end to end connection
                 new Echoer(serverSocket.accept()).start();
             }
 

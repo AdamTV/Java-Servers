@@ -1,3 +1,8 @@
+/*
+TCP Server Echoer class
+Made by Adam Stinziani
+Date: 2019-05-06
+ */
 package com.adamstinziani;
 
 import java.io.BufferedReader;
