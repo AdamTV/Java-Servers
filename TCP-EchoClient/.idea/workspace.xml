@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1130102d-0f15-4263-8d8f-1c44efe041c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/adamstinziani/ClientMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adamstinziani/ClientMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TCP-EchoServer/src/com/adamstinziani/Echoer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP-EchoServer/src/com/adamstinziani/Echoer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TCP-EchoServer/src/com/adamstinziani/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP-EchoServer/src/com/adamstinziani/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UDP-Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UDP-Client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,9 +59,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -116,9 +113,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1487965" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15536106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
